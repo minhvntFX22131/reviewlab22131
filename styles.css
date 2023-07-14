@@ -1,0 +1,17 @@
+.title {
+  color: red !important;
+  font-size: 30px;
+  font-weight: normal;
+  font-style: italic;
+}
+
+#title-id {
+  color: blue;
+}
+
+li {
+  float: left;
+  margin-left: 50px;
+  list-style-type: none;
+}
+/* to -> normal italic */
